@@ -7,3 +7,6 @@
 [submodule "HowToVulkan"]
 	path = HowToVulkan
 	url = git@github.com:SaschaWillems/HowToVulkan.git
+[submodule "renderdoc"]
+	path = renderdoc
+	url = git@github.com:iamsergio/renderdoc.git

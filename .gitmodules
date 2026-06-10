@@ -1,0 +1,9 @@
+[submodule "mesa"]
+	path = mesa
+	url = https://gitlab.freedesktop.org/mesa/mesa.git
+[submodule "vulkan-guide"]
+	path = vulkan-guide
+	url = git@github.com:iamsergio/vulkan-guide.git
+[submodule "HowToVulkan"]
+	path = HowToVulkan
+	url = git@github.com:SaschaWillems/HowToVulkan.git
